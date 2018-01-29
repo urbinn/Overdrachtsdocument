@@ -30,7 +30,7 @@ Tijdens het onderzoek is er documentatie verzameld, gecreëerd en opgenomen in b
 
 - **Research papers**
 In deze map zijn alle research papers verzameld die gebruikt zijn in het URB project
-- ** Urbinn paper**
+- **Urbinn paper**
 
 Het paper dat geschreven is naar aanleiding van ons Urbinn onderzoek.
 
@@ -46,21 +46,21 @@ De server hebben we gebruikt voor het opslaan van onze datasets en het testen va
 
 De volgende tools zijn tijdens ons project gebruikt
 
-- ****** Waffle/issues**
+- **Waffle/issues**
 
 In Waffle hebben wij onze ticket/issues opgenomen, Waffle biedt namelijk de mogelijkheid om de issue aan Git te verbinden.
 
-- ****** KITTI Evaluation Tool**
+- **KITTI Evaluation Tool**
 
 Wij hebben de Devkit van Kitti gebruikt om de onze URB runs te evalueren. De devit kan via deze link (http://www.cvlibs.net/datasets/kitti/eval\_odometry.php) gedownload worden.
 
-- ****** ZED SDK**
+- **ZED SDK**
 
 We hebben geprobeerd onze eigen opnames te nemen met de ZED Camera van [Stereolabs](https://www.stereolabs.com). Door gebruik te maken van de SDK( [https://www.stereolabs.com/developers/release/2.1/](https://www.stereolabs.com/developers/release/2.1/))  hebben we zelf opnames genomen van een paar gangen in de HHS (Den Haag) en Delft. Deze opnames waren helaas onbruikbaar omdat de software van ORB en URB moeite hadden met de qualiteit van de opnames (alle opnames zijn genomen op fabrieksinstelling). De opnames kunnen gevonden worde op de server onder datasets, slinger…. en delft…. opnames.
 
 De config file voor de camera en een scriptje waarmee je direct png files krijgt uit de camera kunnen hier gevonden worden in de git van Urbinn.
 
-- ****** Docker**
+- **Docker**
 
 Docker is virtualisatie software dat veel gebruikt wordt bij de development en deployment van software. Ook wij gebruikten Docker om urb in combinatie met g2o te draaien, zodat er op verschillende platformen ontwikkelt kon worden aan de software.
 
