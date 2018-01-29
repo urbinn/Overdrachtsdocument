@@ -4,7 +4,7 @@ In dit document wordt de overdracht van het Urbinn project beschreven. De overdr
 
 ### **Software (Git)**
 
-Alle aangepaste/ontwikkelde software kan gevonden worden op Git ( [https://github.com/urbinn](https://github.com/urbinn)).
+Alle aangepaste/ontwikkelde software kan gevonden worden op Git Urbinn.
 
 **1 URB**
 
