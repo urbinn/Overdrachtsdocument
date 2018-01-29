@@ -25,24 +25,18 @@ Yolo [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/) is
 _Overige Urbinn repositories zijn verouderd en hebben geen functie meer in toekomstig onderzoek._
 
 ### **Documentatie**
-
 Tijdens het onderzoek is er documentatie verzameld, gecreëerd en opgenomen in bijgevoegd .zip file te vinden op git. Deze map bestaat uit:
 
 - **Research papers**
 In deze map zijn alle research papers verzameld die gebruikt zijn in het URB project
 - **Urbinn paper**
-
 Het paper dat geschreven is naar aanleiding van ons Urbinn onderzoek.
-
 - **Server**
-
 De server hebben we gebruikt voor het opslaan van onze datasets en het testen van  de gemaakte software.
-
 - **Urb FlowChart**
-
 Er is een flowchart die de stappen van het URB proces afbeelden.
 
-**Tools**
+### **Tools**
 
 De volgende tools zijn tijdens ons project gebruikt
 
