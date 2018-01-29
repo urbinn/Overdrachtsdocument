@@ -1,8 +1,8 @@
-# Overdrachtsdocument
+#### Overdrachtsdocument
 
 In dit document wordt de overdracht van het Urbinn project beschreven. De overdracht bestaat uit het software en documentatie gedeelte van Urbinn.
 
-**Software (Git)**
+### **Software (Git)**
 
 Alle aangepaste/ontwikkelde software kan gevonden worden op Git ( [https://github.com/urbinn](https://github.com/urbinn)).
 
@@ -24,7 +24,7 @@ Yolo ( [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/))
 
 _Overige Urbinn repositories zijn verouderd en hebben geen functie meer in toekomstig onderzoek._
 
-**Documentatie**
+### **Documentatie**
 
 Tijdens het onderzoek is er documentatie verzameld, gecreëerd en opgenomen in bijgevoegd .zip file te vinden op git. Deze map bestaat uit:
 
