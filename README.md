@@ -3,7 +3,6 @@
 In dit document wordt de overdracht van het Urbinn project beschreven. De overdracht bestaat uit het software en documentatie gedeelte van Urbinn.
 
 ### **Software (Git)**
-
 Alle aangepaste/ontwikkelde software kan gevonden worden op Git Urbinn.
 
 **1 URB**
