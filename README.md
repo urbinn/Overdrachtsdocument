@@ -6,19 +6,19 @@ In dit document wordt de overdracht van het Urbinn project beschreven. De overdr
 
 Alle aangepaste/ontwikkelde software kan gevonden worden op Git ( [https://github.com/urbinn](https://github.com/urbinn)).
 
-**1) URB**
+**1 URB**
 
 Binnen het onderzoek hebben we een eigen SLAM-algoritme geïmplementeerd. De applicatie, URB ( [https://github.com/urbinn/urb](https://github.com/urbinn/urb)), is voornamelijk gebaseerd op ORB\_SLAM2 ( [https://github.com/urbinn/orb2](https://github.com/urbinn/orb2)) en bevat vooral op het gebied van landmark detection en matching verbeteringen. Deze verbeteringen staan uitvoerig beschreven in het opgeleverde paper.
 
-**2) g2o**
+**2 g2o**
 
 g2o is een graph Optimization library die gebruikt wordt in URB om de motion only bundle adjustment uit te voeren. De bindings met deze library zijn al gemaakt in URB.
 
-**3) BBox-Label-Tool**
+**3 BBox-Label-Tool**
 
 Dit is een tool waarmee afbeeldingen gelabeld kunnen worden voor o.a. het object detectie systeem YOLO. Door bounding boxes te tekenen rondom een object en deze te labelen kunnen eigen classificatie verwerkt worden en gebruikt worden om nieuw trainingsmateriaal voor yolo te creëren.
 
-**4) yolo**
+**4 yolo**
 
 Yolo ( [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)) is een systeem die we hebben gebruikt voor object detectie en herkenning. Dit systeem heeft twee varianten waarvan we gebruik hebben gemaakt, namelijk: tiny yolo en yolo9000. Uiteindelijk zijn we verdergegaan met tiny yolo. We hebben tiny yolo ook uitgebreid met een zelf gelabelde dataset. Hiervoor hebben we gebruikgemaakt van de BBox-Label-Tool.
 
@@ -28,17 +28,17 @@ _Overige Urbinn repositories zijn verouderd en hebben geen functie meer in toeko
 
 Tijdens het onderzoek is er documentatie verzameld, gecreëerd en opgenomen in bijgevoegd .zip file te vinden op git. Deze map bestaat uit:
 
-- ****** Research papers**
+- *1* Research papers**
 In deze map zijn alle research papers verzameld die gebruikt zijn in het URB project
-- ****** Urbinn paper**
+- *2* Urbinn paper**
 
 **       ** Het paper dat geschreven is naar aanleiding van ons Urbinn onderzoek.
 
-- ****** Server**
+- *3* Server**
 
 De server hebben we gebruikt voor het opslaan van onze datasets en het testen van  de gemaakte software.
 
-- ****** Urb FlowChart**
+- *4* Urb FlowChart**
 
         Er is een flowchart die de stappen van het URB proces afbeelden.
 
