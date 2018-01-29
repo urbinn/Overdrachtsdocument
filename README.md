@@ -20,7 +20,7 @@ Dit is een tool waarmee afbeeldingen gelabeld kunnen worden voor o.a. het object
 
 **4 yolo**
 
-Yolo ( [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)) is een systeem die we hebben gebruikt voor object detectie en herkenning. Dit systeem heeft twee varianten waarvan we gebruik hebben gemaakt, namelijk: tiny yolo en yolo9000. Uiteindelijk zijn we verdergegaan met tiny yolo. We hebben tiny yolo ook uitgebreid met een zelf gelabelde dataset. Hiervoor hebben we gebruikgemaakt van de BBox-Label-Tool.
+Yolo [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/) is een systeem die we hebben gebruikt voor object detectie en herkenning. Dit systeem heeft twee varianten waarvan we gebruik hebben gemaakt, namelijk: tiny yolo en yolo9000. Uiteindelijk zijn we verdergegaan met tiny yolo. We hebben tiny yolo ook uitgebreid met een zelf gelabelde dataset. Hiervoor hebben we gebruikgemaakt van de BBox-Label-Tool.
 
 _Overige Urbinn repositories zijn verouderd en hebben geen functie meer in toekomstig onderzoek._
 
@@ -40,7 +40,7 @@ De server hebben we gebruikt voor het opslaan van onze datasets en het testen va
 
 - **Urb FlowChart**
 
-        Er is een flowchart die de stappen van het URB proces afbeelden.
+Er is een flowchart die de stappen van het URB proces afbeelden.
 
 **Tools**
 
